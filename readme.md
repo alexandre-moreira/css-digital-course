@@ -94,4 +94,14 @@
             [x] border
             [x] box-sizing
 
-
+# Aula05 - Position e Introdução à Flexbox
+    [x] Regras
+        [x] float
+        [x] clear
+        [x] position
+            [x] relative
+            [x] absolute
+            [x] fixed
+            [x] sticky
+        [x] display: flex
+            
