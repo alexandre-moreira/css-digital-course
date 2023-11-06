@@ -77,5 +77,21 @@
                     [x] a:hover, deve sempre vir depois do a:link e a:visited
                     [x] a:active, deve sempre vir depois do a:hover
 
-                
+# Aula04 - Listas, Tabelas, Box Model e Display
+    [x] Listas
+        [x] Não Ordenadas
+        [x] Ordenadas
+        [x] Marcadores de listas
+    [x] Tabelas
+        [x] Regra
+            [x] border-collapse
+    [x] Box-Model
+        [x] Regras
+            [x] height
+            [x] width
+            [x] padding
+            [x] margin
+            [x] border
+            [x] box-sizing
+
 
