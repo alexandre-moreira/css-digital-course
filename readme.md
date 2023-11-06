@@ -31,6 +31,26 @@
         [x] font-weight
         [x] font-align
         [x] font-family
-        
-# Aula02 - Cores, Background e Textos
 
+# Aula02 - Cores, Background e Textos
+    [x] Cores
+        [x] Combinação das cores
+        [x] Resumindo cores
+    [x] Regras
+        [x] background-repeat
+        [x] background-image
+        [x] background-attachment
+        [x] background-position
+        [x] text-decoration
+        [x] text-transform
+        [x] text-ident
+        [x] text-align
+        [x] text-family
+    [x] Fontes
+        [x] Fontes serifadas x fontes não serifadas
+        [x] interpretação da propriedade font-family pelo Browser
+        [x] font-style
+        [x] medidas
+            [x] px
+            [x] %
+            [x] em
