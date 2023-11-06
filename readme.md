@@ -54,3 +54,28 @@
             [x] px
             [x] %
             [x] em
+# Aula03 - Fontes, Medidas e Links
+    [x] Fontes
+        [x] Fontes serifadas e não serifadas
+        [x] Interpretação da propriedade font-family pelo Browser
+        [x] Como importar fontes, pelo google fonts.
+        [x] Medidas
+            [x] px
+            [x] %
+            [x] em
+            [x] rem
+            [x] por palavra chave
+        [x] Conceitos básicos de acessibilidades
+        [x] Pseudo-classes (para lhe dar com estados)
+            [x] Links
+                [x] Estados
+                    [x] Não visitado
+                    [x] Visitado(visited)
+                    [x] Ao passar o mouse(hover)
+                    [x] Ativo(active)
+                [x] Observações
+                    [x] a:hover, deve sempre vir depois do a:link e a:visited
+                    [x] a:active, deve sempre vir depois do a:hover
+
+                
+
