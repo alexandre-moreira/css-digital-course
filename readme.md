@@ -104,4 +104,15 @@
             [x] fixed
             [x] sticky
         [x] display: flex
-            
+
+# Aula05 - display: flex
+    [x] Propriedades
+        [x] flex-wrap      
+        [x] flex-direction      
+        [x] flex-flow      
+        [x] flex      
+        [x] gap      
+        [x] justify-content      
+        [x] align-itens      
+        [x] align-content      
+        [x] order      
