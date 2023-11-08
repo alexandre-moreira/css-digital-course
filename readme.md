@@ -149,3 +149,9 @@
         [x] A unidade fr
         [x] repeat
         [x] minmax
+
+## Aula09 - Projeto (Parte I)
+    [x] Conceito mais avancados
+        [x] Variaveis
+        [x] Seletores( ˜, +, is:)
+        [x] Pseudo elementos
