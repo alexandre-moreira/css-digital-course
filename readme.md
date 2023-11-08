@@ -1,24 +1,24 @@
 # CSS
 
-# Aula01 - Introdução
+## Aula01 - Introdução
 
-## História da Web
+### História da Web
     [x] Evolução do Html
         [x] Muitas tags novas para suprir necessidades
     [x] Surgimento do CSS
     [x] Conectando CSS ao HTML
     [x] Interpretação do CSS por diferentes navegadores.
 
-## Criando arquivos
+### Criando arquivos
     [x] Html
     [x] CSS
 
-## Como usar o CSS:
+### Como usar o CSS:
     [x] Inline
     [x] Tag style
     [x] Arquivo externo
 
-## Sintaxe do CSS
+### Sintaxe do CSS
     [x] Seletores
         [x] Tag
         [x] Id
@@ -32,7 +32,7 @@
         [x] font-align
         [x] font-family
 
-# Aula02 - Cores, Background e Textos
+## Aula02 - Cores, Background e Textos
     [x] Cores
         [x] Combinação das cores
         [x] Resumindo cores
@@ -54,7 +54,7 @@
             [x] px
             [x] %
             [x] em
-# Aula03 - Fontes, Medidas e Links
+## Aula03 - Fontes, Medidas e Links
     [x] Fontes
         [x] Fontes serifadas e não serifadas
         [x] Interpretação da propriedade font-family pelo Browser
@@ -77,7 +77,7 @@
                     [x] a:hover, deve sempre vir depois do a:link e a:visited
                     [x] a:active, deve sempre vir depois do a:hover
 
-# Aula04 - Listas, Tabelas, Box Model e Display
+## Aula04 - Listas, Tabelas, Box Model e Display
     [x] Listas
         [x] Não Ordenadas
         [x] Ordenadas
@@ -94,7 +94,7 @@
             [x] border
             [x] box-sizing
 
-# Aula05 - Position e Introdução à Flexbox
+## Aula05 - Position e Introdução à Flexbox
     [x] Regras
         [x] float
         [x] clear
@@ -105,7 +105,7 @@
             [x] sticky
         [x] display: flex
 
-# Aula06 - display: flex
+## Aula06 - display: flex
     [x] Propriedades
         [x] flex-wrap      
         [x] flex-direction      
@@ -116,7 +116,7 @@
         [x] align-itens      
         [x] align-content      
         [x] order
-# Aula07 - Seletores, Responsividade e Animacoes
+## Aula07 - Seletores, Responsividade e Animacoes
     [x] Seletore extras
     [x] Basico de responsividade
     [x] Outras propriedades
@@ -136,3 +136,16 @@
     [x] Exemplo de animacao de carregamento
     [x] Performance das animacoes
     [x] Animando hover
+
+## Aula08 - Grid Layout e Unidade "fr"
+    [x] Display: grid
+        [x] Propriedades
+            [x] grid-template-rows
+            [x] grid-template-collumns
+            [x] grid-template-areas
+            [x] grid-column-gap
+            [x] grid-row-gap
+            [x] grid-gap
+        [x] A unidade fr
+        [x] repeat
+        [x] minmax
