@@ -105,7 +105,7 @@
             [x] sticky
         [x] display: flex
 
-# Aula05 - display: flex
+# Aula06 - display: flex
     [x] Propriedades
         [x] flex-wrap      
         [x] flex-direction      
@@ -115,4 +115,22 @@
         [x] justify-content      
         [x] align-itens      
         [x] align-content      
-        [x] order      
+        [x] order
+# Aula07 - Seletores, Responsividade e Animacoes
+    [x] Seletore extras
+    [x] Basico de responsividade
+    [x] Outras propriedades
+         [x] opacity
+         [x] visibility
+         [x] transform
+    [x] Animacao
+         [x] @keyframes
+         [x] Propriedade
+            [x] animation-name
+            [x] animation-duration
+            [x] animation-delay
+            [x] animation-iteration-count
+            [x] animation-direction
+            [x] animation-
+            [x] animation-
+            [x] animation-
