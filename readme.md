@@ -150,7 +150,7 @@
         [x] repeat
         [x] minmax
 
-## Aula09 - Projeto (Parte I)
+## Aulas: 09 e 10 - Projeto.
     [x] Conceito mais avancados
         [x] Variaveis
         [x] Seletores( ˜, +, is:)
