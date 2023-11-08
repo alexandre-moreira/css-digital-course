@@ -131,6 +131,8 @@
             [x] animation-delay
             [x] animation-iteration-count
             [x] animation-direction
-            [x] animation-
-            [x] animation-
-            [x] animation-
+            [x] animation-fill-mode
+            [x] animation-play-state
+    [x] Exemplo de animacao de carregamento
+    [x] Performance das animacoes
+    [x] Animando hover
