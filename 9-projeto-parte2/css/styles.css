@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+    --default-border: 0.1rem solid rgba(0, 0, 0, 0.95);
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4rem;
+}
+
+.content{
+    display: grid;
+    grid-template-areas:
+        ". . . . ."
+        ". hero . form ."
+        ". hero . form ."
+        ". . . . ."
+    ;
+    gap: 8.5rem;
+}
+
+main{
+    grid-area: form;
+}
+
+aside{
+    grid-area: hero;
+}
+
+aside h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    font-weight: 500px;
+    line-height: 75px;
+}
+
+img{
+    margin-bottom: 2.4rem;
+}
+
+aside h1 span, main h2 span{
+    color: orange;
+}
+
+main{
+    width: 60rem;
+    height: 52rem;
+    border:  var(--default-border);
+    padding: 4.4rem 5.7rem;
+    border-radius: 1.2rem;
+    position: relative;
+}
+
+main h2 {
+    max-width: 43rem;
+    font-size: 3.6rem;
+    font-weight: 500;
+}
+
+main .actions{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+main .actions a{
+    height: 5.5rem;
+    font-size: 2.4rem;
+    border-radius: 1.2rem;
+    text-decoration: none;
+    background-color: black;
+    color: orange;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5.4rem;
+}
+
+main .actions a + a {
+    background-color: orange;
+    margin-top: 4.8rem;
+    color: black;
+}
+
+main header {
+    display: flex;
+    gap: 0 1.8rem;
+    align-items: center;
+}
+
+main header i {
+    font-size: 3.2rem;
+    color: orange;
+}
+main form{
+    margin-top: 0.1rem;
+}
+main footer p{
+    font-size: 1.6rem;
+    margin-top: 8rem;
+}
+
+main footer a{
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    display: block;
+    text-align: center;
+}
+
+main form label{
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: lowercase;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+
+    display: block;
+}
+
+main form :is(input, select){
+    width: 489px;
+    height: 5.5rem;
+
+    background: #fff;
+    border:  var(--default-border);
+    border-radius: 1.2rem;
+}
+main form .select-div{
+    position: relative;
+}
+main form select{
+    appearance: none;
+}
+main form .select-div::after{
+    top: 1.6rem;
+    right: 1.6rem;
+    font-size: 2.2rem;
+    content: '\f107';
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 600;
+    position: absolute;
+    z-index: 1;
+    color: orange;
+}
+main form .points{
+    position: relative;
+}
+
+main form input + button{
+    position: absolute;
+    right: -3.8rem;
+    top: calc(2.7rem + 2.5rem);
+    background-color: transparent;
+    border: none;
+    color: orange;
+    font-size: 2.4rem;
+    cursor: pointer;
+
+}
